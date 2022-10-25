@@ -6,7 +6,7 @@ This is the implementation of Image2Tripplets, including a forward and backward 
 ## Installation
 
 ```
-conda env create -f requirement.yaml
+conda install --yes --file requirement.yaml
 ```
 
 ## Preparation
